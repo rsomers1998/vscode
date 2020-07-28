@@ -37,7 +37,7 @@ Functionality
 - Running local Galasa test
 - Status overview of past Galasa tests
 - Retrieving and displaying all artifacts over past Galasa tests
-- Launching Simbank example aplication to begin with Galasa
+- Launching Simbank example application to begin with Galasa
 - Create a properties environment to switch between for different types of tests
 
 *Initial Preview release*
